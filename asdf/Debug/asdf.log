@@ -1,0 +1,30 @@
+﻿  asdf.cpp
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(42,37): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(44,11): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(47,19): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(47,22): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(55,37): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(56,26): warning C4244:  'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(61,20): warning C4244:  'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(61,20): warning C4244:         with
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(61,20): warning C4244:         [
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(61,20): warning C4244:             _Ty=__int64
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(61,20): warning C4244:         ]
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(62,20): warning C4244:  'argument': conversion from '_Ty' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(62,20): warning C4244:         with
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(62,20): warning C4244:         [
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(62,20): warning C4244:             _Ty=__int64
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(62,20): warning C4244:         ]
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(150,15): warning C4244:  'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(155,10): warning C4244:  'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(157,34): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,21): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,28): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,29): warning C4244:  'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,29): warning C4244:         with
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,29): warning C4244:         [
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,29): warning C4244:             _Ty=__int64
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(159,29): warning C4244:         ]
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(161,13): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\TEMP\source\repos\asdf\asdf\asdf.cpp(161,20): warning C4244:  'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  asdf.vcxproj -> C:\Users\TEMP\source\repos\asdf\Debug\asdf.exe
